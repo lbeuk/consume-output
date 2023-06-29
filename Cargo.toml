@@ -1,6 +1,6 @@
 [package]
 name = "consume-output"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Adds a trait to consume the output of a function."
 license = "MIT"
