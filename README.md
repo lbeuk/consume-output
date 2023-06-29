@@ -1,0 +1,1 @@
+Adds a `consume` trait, that adds a `consume` method to all types, which does nothing and returns nothing.
